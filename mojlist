@@ -88,3 +88,13 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Entertainment",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="ABC_EAST" tvg-name="ABC_EAST"
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSEAST" tvg-name="CBSEAST"
+https://fl1.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="WGN" tvg-name="WGN"
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="FOX_EAST" tvg-name="FOX_EAST"
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NBC_EAST" tvg-name="NBC_EAST"
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
