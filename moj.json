@@ -1,29 +1,25 @@
 {
-  "headline": "🧿 Oseras IPTV Menü",
+  "headline": "🧿 Oseras IPTV Menüsü",
   "menu": [
     {
       "type": "separator",
-      "label": "📺 Ana Liste"
+      "label": "🔴 Panelden Tüm Kanallar"
     },
     {
-      "icon": "movie",
-      "label": "Tüm Kanallar (Panel + GitHub)",
-      "extensionLabel": "Güncel",
-      "data": "playlist:https://oseras-ip.m3u.workers.dev"
+      "icon": "live-tv",
+      "label": "Ana Panel (Tam Liste)",
+      "extensionLabel": "70.000+ Kanal",
+      "data": "playlist:https://workers-playground-cool-snowflake-78d7.oylmesn.workers.dev/"
     },
     {
       "type": "separator",
-      "label": "🎯 Özel İşlemler"
+      "label": "⭐ GitHub Derlemeleri"
     },
     {
-      "icon": "refresh",
-      "label": "Yeniden Yükle",
-      "action": "reload"
+      "icon": "movie",
+      "label": "Özel Seçme Kanallar",
+      "extensionLabel": "GitHub",
+      "data": "playlist:https://raw.githubusercontent.com/oseras/moj/main/mojlist"
     },
     {
-      "icon": "exit-to-app",
-      "label": "Çık",
-      "action": "back"
-    }
-  ]
-}
+      "type": "separator",
