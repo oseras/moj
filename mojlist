@@ -98,3 +98,23 @@ https://fl3.moveonjoy.com/WGN/index.m3u8
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC_EAST" tvg-name="NBC_EAST"
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="PBS" tvg-name="PBS"
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN_SPORTS" tvg-name="BEIN_SPORTS"
+https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="CBS_SPORTS_NETWORK" tvg-name="CBS_SPORTS_NETWORK"
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN"
+https://fl1.moveonjoy.com/Espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN"
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_2" tvg-name="ESPN_2"
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN_NEWS" tvg-name="ESPN_NEWS"
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="USA_ESPNU" tvg-name="USA_ESPNU"
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="MARQUEE_SPORTS_NETWORK" tvg-name="MARQUEE_SPORTS_NETWORK"
+https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBA_TV" tvg-name="NBA_TV"
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
