@@ -118,3 +118,17 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBA_TV" tvg-name="NBA_TV"
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBC_SPORTS_BOSTON" tvg-name="NBC_SPORTS_BOSTON"
+https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
+#EXTINF:-1 tvg-id="USA_NESN" tvg-name="USA_NESN"
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"
+https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO"
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV"
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV_LIVE" tvg-name="MTV_LIVE"
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTV_2" tvg-name="MTV_2"
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
